@@ -118,7 +118,7 @@ Assign Permissions: ost-config.php | Disable inheritance --> Remove All | New Pe
 <br />
 
 <p>
-<img src="https://i.imgur.com/RJgQYly.jpg" height="100%" width="100%" alt="Azure VM"/>
+<img src="https://i.imgur.com/ArGaetw.jpg" height="100%" width="100%" alt="Azure VM"/>
 </p>
 <p>
 From the Installation Files, download and install HeidiSQL | MySQL Database: osTicket | MySQL Username: root | Set the Password | Click Install Now
@@ -126,9 +126,17 @@ From the Installation Files, download and install HeidiSQL | MySQL Database: osT
 <br />
 
 <p>
-<img src="https://i.imgur.com/RJgQYly.jpg" height="100%" width="100%" alt="Azure VM"/>
+<img src="https://i.imgur.com/K9JGopF.jpg" height="100%" width="100%" alt="Azure VM"/>
 </p>
 <p>
+Congratulations, hopefully, it is installed with no errors! | Helpdesk Login Page: http://localhost/osTicket/scp/login.php | End Users osTicket URL: http://localhost/osTicket/
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/ZQUvEBe.png" height="100%" width="100%" alt="Azure VM"/>
+</p>
+<p>
+Delete: C:\inetpub|wwwroot\osTicket\setup | Set Permissions to "Read" only for C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
