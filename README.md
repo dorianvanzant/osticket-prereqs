@@ -97,7 +97,7 @@ Download osTicket from the Installation Files | Extract and copy the "upload" fo
 <img src="https://i.imgur.com/PX84dzh.jpg" height="100%" width="100%" alt="Azure VM"/>
 </p>
 <p>
-Go to sites --> Default --> osTicket. On the right, click "Browse *:80" | Note that some extensions are not enabled. Go back to IIS, sites --> Default --> osTicket. Double-click PHP Manager. Click “Enable or disable an extension.” Enable: php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket site in your browse, and observe the changes.
+Go to sites --> Default --> osTicket. On the right, click "Browse *:80" | Note that some extensions are not enabled. Go back to IIS, sites --> Default --> osTicket. Double-click PHP Manager. Click “Enable or disable an extension.” Enable: php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket site in your browser, and observe the changes.
 </p>
 <br />
 
